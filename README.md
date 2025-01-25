@@ -1,2 +1,1 @@
-# letsql-examples
-Experimental letsql python solutions
+# letsql examples
